@@ -19,9 +19,7 @@ It helps sellers handle **HS code classification, tax & duty insights, invoice g
 
 ## 🛠️ Tech Stack  
 - **Frontend**: Vite + React  
-- **Backend**: Node.js + Express  
-- **Database**: MongoDB (or AstraDB if used)  
-- **AI/ML**: LangChain + RAG Model + Groq API  
+- **Backend**: Node.js + Express   
 - **Deployment**: Vercel  
 
 ---
