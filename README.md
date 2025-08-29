@@ -4,7 +4,7 @@ CrossWise is a GenAI-powered tool designed to simplify **cross-border e-commerce
 It helps sellers handle **HS code classification, tax & duty insights, invoice generation, and export documentation** with ease.  
 
 ## 🚀 Live Demo  
-[Visit CrossWise](https://cross-wise.vercel.app)  
+[Visit CrossWise](https://cross-wise-one.vercel.app/)  
 
 ---
 
